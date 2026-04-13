@@ -1,0 +1,272 @@
+
+{
+  "LiveChannels": [
+    {
+      "PlayIn": "player",
+      "ChannelName": "ESPN",
+      "ChannelImage": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/b3edab7646404d2f8e3245867fe0efe7.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+         "PlayIn": "player",
+      "ChannelName": "Fox Sports 1",
+      "ChannelImage": "https://variety.com/wp-content/uploads/2023/08/Fox-Sports.png?w=1000&amp;h=563&amp;crop=1",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/b626bc4bcdc74efb8f96fa23cf904dae.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Fox Sports 2",
+      "ChannelImage": "https://variety.com/wp-content/uploads/2023/08/Fox-Sports.png?w=1000&amp;h=563&amp;crop=1",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/352a233c398c4128aba94e07ed548c51.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+        "PlayIn": "player",
+      "ChannelName": "Sky Sports F1",
+      "ChannelImage": "https://i.imgur.com/welsBvj.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/d92feecb0807488fb7fe41f22347a3d6.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+              "PlayIn": "player",
+      "ChannelName": "Sky Sports Main Event",
+      "ChannelImage": "https://i.imgur.com/soVeFIm.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/9b4d32d037bd454da3eba321146b01d5.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Sky Sports Tennis",
+      "ChannelImage": "https://i.imgur.com/sXljANB.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/fae3785be2ab4a2e8d3722c454a63b42.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+           "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+            "PlayIn": "player",
+      "ChannelName": "TNT Sports 1",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/e6468fc18fbf4d45afc88b56491f670e.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+          ]
+        }
+      ]
+    },
+    {
+            "PlayIn": "player",
+      "ChannelName": "TNT Sports 2",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/52f4d0221c11473f80b11de1d952f8b4.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+         ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "TNT Sports 3",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/52f4d0221c11473f80b11de1d952f8b4.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://hmembeds.one/",
+            "https://hmembeds.one"
+         ]
+        }
+      ]
+    },
+    {
+            "PlayIn": "player",
+      "ChannelName": "TNT Sports 4",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/d133fbcf3c714f38aa1b520002324267.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://hmembeds.one/",
+            "https://hmembeds.one"
+         ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Rally Tv",
+      "ChannelImage": "https://image.discovery.indazn.com/ca/v2/ca/image?id=14ahq1yavd8ey17eftu69a0lz3_image-header_pUs_1716381572000&amp;quality=100",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/68605101fa9c480383198f05bdb3d2e2.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+         ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "ABC",
+      "ChannelImage": "https://i.postimg.cc/Qxvjymvx/Abclogo-large.webp",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/8b3785040666474db46e775da8b2db21.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+             ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "FOX",
+      "ChannelImage": "https://i.postimg.cc/VkjPH8jH/fox-logo.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/13773512e8c04733bd6dfb8afd03da37.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+             ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "NBC Sports Philadelphia",
+      "ChannelImage": "https://i.postimg.cc/d3nQbbk6/Philly-Landmark.webp",
+      "StreamData": [
+        {
+          "StreamLink": "https://wnt-geting-002.transmisjana.digital/926655f5d2e043a68482ca5e87dd0ffd.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://hmembeds.one/",
+            "https://hmembeds.one"
+     
+          ]
+        }
+      ]
+    }
+  ]
+}
