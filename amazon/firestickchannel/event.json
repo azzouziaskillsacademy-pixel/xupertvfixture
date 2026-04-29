@@ -1,7 +1,7 @@
 {
   "LiveEvents": [
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "FirstTeamName": "Atlético Madrid",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
@@ -15,7 +15,7 @@
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
         },{
-            "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJleHAiOjE3Nzc0OTU1MTF9.nGFbF8qZWmo5SdmfmB12D-wwXLOB1H0TuM2E5N2gOHw/uefa-1.m3u8",
+            "StreamLink": "https://storage.googleapis.com/bguytiughewf1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
@@ -26,8 +26,8 @@
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-        },{
-           "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJleHAiOjE3Nzc0OTU1MTF9.nGFbF8qZWmo5SdmfmB12D-wwXLOB1H0TuM2E5N2gOHw/uefa-1.m3u8",
+          },{
+            "StreamLink": "https://storage.googleapis.com/bguytiughewf1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
