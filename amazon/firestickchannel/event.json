@@ -116,13 +116,33 @@
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "SecondTeamName": "Fulham",
       "MatchTime": "17:30",
-      "StreamData": [{
-        "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+      "StreamData": [
+        {
+        "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJza3ktc3BvcnQtOC1ueiIsImV4cCI6MTc3Nzc0NjI0OX0.H8oLfWaWobIXZXYXvZi5maoB6Kk2bMkum9Sihj3Ne9A/sky-sport-8-nz.m3u8",
         "UseTimStreamerDecoder": false,
         "UseCDNDecoder": false,
         "NewappHeaders": ["origin","referer"],
         "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      }],
+      },{
+          "StreamLink": "https://storage.googleapis.com/onihunterover1/mux_video_ts1/index-1.m3u8",
+        "UseTimStreamerDecoder": false,
+        "UseCDNDecoder": false,
+        "NewappHeaders": ["origin","referer"],
+        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+      },{
+          "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJza3ktc3BvcnQtOC1ueiIsImV4cCI6MTc3Nzc0NjI0OX0.H8oLfWaWobIXZXYXvZi5maoB6Kk2bMkum9Sihj3Ne9A/sky-sport-8-nz.m3u8",
+        "UseTimStreamerDecoder": false,
+        "UseCDNDecoder": false,
+        "NewappHeaders": ["origin","referer"],
+        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+      },{
+        "StreamLink": "https://storage.googleapis.com/onihunterover1/mux_video_ts1/index-1.m3u8",
+        "UseTimStreamerDecoder": false,
+        "UseCDNDecoder": false,
+        "NewappHeaders": ["origin","referer"],
+        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+      }
+      ],
       "PlayIn": "player",
       "CupName": "Premier League",
       "TV": "beIN Sports",
