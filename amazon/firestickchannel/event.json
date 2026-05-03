@@ -2,106 +2,26 @@
   "LiveEvents": [
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "FirstTeamName": "AFC Bournemouth",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "SecondTeamName": "Crystal Palace",
-      "MatchTime": "14:00",
-      "StreamData": [
-        {
-        "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTM4IiwiZXhwIjoxNzc3ODIzMTA5fQ.RTJP6yzjEfDYWLlZQUsmreBv_nStBa6OG3QtXV8OmlI/epl-740938.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      },{
-              "StreamLink": "https://storage.googleapis.com/bakuknhertyung1/mux_video_ts1/index-1.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      },{
-            "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTM4IiwiZXhwIjoxNzc3ODIzMTA5fQ.RTJP6yzjEfDYWLlZQUsmreBv_nStBa6OG3QtXV8OmlI/epl-740938.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      },{
-        "StreamLink": "https://storage.googleapis.com/bakuknhertyung1/mux_video_ts1/index-1.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports HD 2",
-      "Tickets": "Available",
-      "LocationWeather": "Bournemouth, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "FirstTeamName": "Manchester United",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "SecondTeamName": "Liverpool",
-      "MatchTime": "15:30",
-      "StreamData": [
-        {
-        "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQzIiwiZXhwIjoxNzc3ODI3MTM0fQ.GgSj6Jg7AvK8caFQvkGV86qNdGq39wN8tGYapRstfTw/epl-740943.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-           },{
-           "StreamLink": "https://storage.googleapis.com/bakuknhertyung2/mux_video_ts1/index-1.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-           },{
-           "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQzIiwiZXhwIjoxNzc3ODI3MTM0fQ.GgSj6Jg7AvK8caFQvkGV86qNdGq39wN8tGYapRstfTw/epl-740943.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-           },{
-            "StreamLink": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQzIiwiZXhwIjoxNzc3ODI3MTM0fQ.GgSj6Jg7AvK8caFQvkGV86qNdGq39wN8tGYapRstfTw/epl-740943.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-           },{
-        "StreamLink": "https://storage.googleapis.com/bakuknhertyung2/mux_video_ts1/index-1.m3u8",
-        "UseTimStreamerDecoder": false,
-        "UseCDNDecoder": false,
-        "NewappHeaders": ["origin","referer"],
-        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports HD 1",
-      "Tickets": "Available",
-      "LocationWeather": "Manchester, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "17:00",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "FirstTeamName": "Juventus",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
       "SecondTeamName": "Verona",
       "MatchTime": "17:00",
-      "StreamData": [{
-        "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+      "StreamData": [
+        {
+        "StreamLink": "https://storage.googleapis.com/bakuknhertyung3/mux_video_ts1/index-1.m3u8",
         "UseTimStreamerDecoder": false,
         "UseCDNDecoder": false,
         "NewappHeaders": ["origin","referer"],
         "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-      }],
+      },{
+        "StreamLink": "https://storage.googleapis.com/bakuknhertyung3/mux_video_ts1/index-1.m3u8",
+        "UseTimStreamerDecoder": false,
+        "UseCDNDecoder": false,
+        "NewappHeaders": ["origin","referer"],
+        "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+      }
+      ],
       "PlayIn": "player",
       "CupName": "Serie A",
       "TV": "STARZPLAY",
