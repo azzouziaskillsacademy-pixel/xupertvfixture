@@ -48,7 +48,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "19:45",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "FirstTeamName": "Internazionale",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/116.png",
@@ -77,7 +77,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
       "FirstTeamName": "Espanyol",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
