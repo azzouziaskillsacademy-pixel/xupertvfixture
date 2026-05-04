@@ -9,6 +9,12 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
+             "StreamLink": "https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+        },{
           "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQxIiwiaXAiOiI0MS4yNTAuNDEuMC8yNCIsInNlc3Npb25faWQiOiJmNGI5MWQ1OC0wYWM5LTQ2MTMtOTAxOS1iZDBlN2YxNWI3NjgiLCJleHAiOjE3Nzc5Mjc2ODl9.iuZnh3YXurst33cWnzQTVcCwtsoJaSY8xA2dDw4iRk4/epl-740941.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
@@ -19,7 +25,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+          "NewappHeadersValues": ["https://timstreams.net","https://timstreams.net/"]
         },{
             "StreamLink": "https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
