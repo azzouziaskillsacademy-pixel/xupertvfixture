@@ -9,17 +9,23 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-           "StreamLink": "https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8",
+            "StreamLink": "https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://sportspass.top","https://sportspass.top/"]
+          "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
         },{
-           "StreamLink": "https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8",
+           "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjQxLjE0MS45Ny4wLzI0Iiwic2Vzc2lvbl9pZCI6IjQzZTYyNDA0LWJjOTMtNGRiOS04OTBjLTRkYmYwN2RiMDI5ZSIsImV4cCI6MTc3ODAxODA1Nn0.Ywen8iFdlexOdG8fy2CsntDQABtXEUr_gWkEzflVvQs/uefa-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://sportspass.top","https://sportspass.top/"]
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+           "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjQxLjE0MS45Ny4wLzI0Iiwic2Vzc2lvbl9pZCI6IjQzZTYyNDA0LWJjOTMtNGRiOS04OTBjLTRkYmYwN2RiMDI5ZSIsImV4cCI6MTc3ODAxODA1Nn0.Ywen8iFdlexOdG8fy2CsntDQABtXEUr_gWkEzflVvQs/uefa-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         },{
           "StreamLink": "https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
@@ -27,29 +33,17 @@
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
         },{
-            "StreamLink": "https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8",
+           "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjQxLjE0MS45Ny4wLzI0Iiwic2Vzc2lvbl9pZCI6IjQzZTYyNDA0LWJjOTMtNGRiOS04OTBjLTRkYmYwN2RiMDI5ZSIsImV4cCI6MTc3ODAxODA1Nn0.Ywen8iFdlexOdG8fy2CsntDQABtXEUr_gWkEzflVvQs/uefa-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https","http"]
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         },{
-            "StreamLink": "https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8",
+            "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjQxLjE0MS45Ny4wLzI0Iiwic2Vzc2lvbl9pZCI6IjQzZTYyNDA0LWJjOTMtNGRiOS04OTBjLTRkYmYwN2RiMDI5ZSIsImV4cCI6MTc3ODAxODA1Nn0.Ywen8iFdlexOdG8fy2CsntDQABtXEUr_gWkEzflVvQs/uefa-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://sportspass.top","https://sportspass.top/"]
-        },{
-            "StreamLink": "https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
-        },{
-           "StreamLink": "https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://sportspass.top","https://sportspass.top/"]
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         },{
             "StreamLink": "https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
@@ -57,24 +51,30 @@
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
         },{
-           "StreamLink": "https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport_1080p30.m3u8",
+         "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjQxLjE0MS45Ny4wLzI0Iiwic2Vzc2lvbl9pZCI6IjQzZTYyNDA0LWJjOTMtNGRiOS04OTBjLTRkYmYwN2RiMDI5ZSIsImV4cCI6MTc3ODAxODA1Nn0.Ywen8iFdlexOdG8fy2CsntDQABtXEUr_gWkEzflVvQs/uefa-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://sportspass.top","https://sportspass.top/"]
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+            "StreamLink": "https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
+        },{
+          "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjQxLjE0MS45Ny4wLzI0Iiwic2Vzc2lvbl9pZCI6IjQzZTYyNDA0LWJjOTMtNGRiOS04OTBjLTRkYmYwN2RiMDI5ZSIsImV4cCI6MTc3ODAxODA1Nn0.Ywen8iFdlexOdG8fy2CsntDQABtXEUr_gWkEzflVvQs/uefa-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         },{
              "StreamLink": "https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
-          },{
-             "StreamLink": "https://streamfree.app/live/atl%C3%A9tico-madrid-vs-arsenal1080p/index.m3u8?_t=F_ot5InU1U0yRyc6IRHD6g&_e=1778035044&_n=771860a89028e346",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://streamfree.app","https://streamfree.app/"]
-  
+     
         }
       ],
       "PlayIn": "player",
