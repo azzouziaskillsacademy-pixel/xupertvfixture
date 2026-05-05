@@ -1,57 +1,15 @@
 {
   "LiveEvents": [
     {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "FirstTeamName": "Everton",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "SecondTeamName": "Manchester City",
+      "MatchStatus": "20:00",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "FirstTeamName": "Arsenal",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "SecondTeamName": "Atlético Madrid",
       "MatchTime": "20:00",
       "StreamData": [
         {
-            "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQxIiwiaXAiOiI0MS4yNTAuNDEuMC8yNCIsInNlc3Npb25faWQiOiI4ZmExMDdhYi00ODJhLTRkY2YtOTkyOC05N2NmYzUyYTlkNTgiLCJleHAiOjE3Nzc5Mjg0MDZ9.dweoXvHXVHFiNtvxzKA3Eih_bEyRRFt6raLSJNsgZW0/epl-740941.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://xyz.juns-iazan.shop","https://xyz.juns-iazan.shop/"]
-        },{
-            "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQxIiwiaXAiOiI0MS4yNTAuNDEuMC8yNCIsInNlc3Npb25faWQiOiI4ZmExMDdhYi00ODJhLTRkY2YtOTkyOC05N2NmYzUyYTlkNTgiLCJleHAiOjE3Nzc5Mjg0MDZ9.dweoXvHXVHFiNtvxzKA3Eih_bEyRRFt6raLSJNsgZW0/epl-740941.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://xyz.juns-iazan.shop","https://xyz.juns-iazan.shop/"]
-        },{
-             "StreamLink": "https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-        },{
-          "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQxIiwiaXAiOiI0MS4yNTAuNDEuMC8yNCIsInNlc3Npb25faWQiOiI4ZmExMDdhYi00ODJhLTRkY2YtOTkyOC05N2NmYzUyYTlkNTgiLCJleHAiOjE3Nzc5Mjg0MDZ9.dweoXvHXVHFiNtvxzKA3Eih_bEyRRFt6raLSJNsgZW0/epl-740941.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://xyz.juns-iazan.shop","https://xyz.juns-iazan.shop/"]
-        },{
-           "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQxIiwiaXAiOiI0MS4yNTAuNDEuMC8yNCIsInNlc3Npb25faWQiOiI4ZmExMDdhYi00ODJhLTRkY2YtOTkyOC05N2NmYzUyYTlkNTgiLCJleHAiOjE3Nzc5Mjg0MDZ9.dweoXvHXVHFiNtvxzKA3Eih_bEyRRFt6raLSJNsgZW0/epl-740941.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://xyz.juns-iazan.shop","https://xyz.juns-iazan.shop/"]
-        },{
-            "StreamLink": "https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
-        },{
-            "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQxIiwiaXAiOiI0MS4yNTAuNDEuMC8yNCIsInNlc3Npb25faWQiOiI4ZmExMDdhYi00ODJhLTRkY2YtOTkyOC05N2NmYzUyYTlkNTgiLCJleHAiOjE3Nzc5Mjg0MDZ9.dweoXvHXVHFiNtvxzKA3Eih_bEyRRFt6raLSJNsgZW0/epl-740941.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://xyz.juns-iazan.shop","https://xyz.juns-iazan.shop/"]
-        },{
-          "StreamLink": "https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8",
+          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
@@ -59,10 +17,10 @@
         }
       ],
       "PlayIn": "player",
-      "CupName": "Premier League",
+      "CupName": "Champions League",
       "TV": "beIN Sports",
       "Tickets": "Available",
-      "LocationWeather": "Liverpool, England",
+      "LocationWeather": "London, England",
       "Odds": "Match Odds"
     }
   ]
