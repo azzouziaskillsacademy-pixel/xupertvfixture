@@ -9,11 +9,11 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://cinebolt.net/api/iptv-proxy?url=http%3A%2F%2Fstream.cammonitorplus.net%2F1810%2Ftracks-v1a1%2Fmono.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+          "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
         }
       ],
       "PlayIn": "player",
