@@ -19,7 +19,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
+          "NewappHeadersValues": ["https","http"]
         }
       ],
       "PlayIn": "player",
