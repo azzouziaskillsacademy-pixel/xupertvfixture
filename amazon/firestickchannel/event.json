@@ -68,6 +68,12 @@
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://livetv.moviebite.cc","https://livetv.moviebite.cc/"]
+          },{
+             "StreamLink": "https://streamfree.app/live/atl%C3%A9tico-madrid-vs-arsenal1080p/index.m3u8?_t=F_ot5InU1U0yRyc6IRHD6g&_e=1778035044&_n=771860a89028e346",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://streamfree.app","https://streamfree.app/"]
   
         }
       ],
