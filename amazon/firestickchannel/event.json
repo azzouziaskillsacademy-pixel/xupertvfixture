@@ -21,11 +21,11 @@
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         },{
-             "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjE2MC4xNzguMjAwLjAvMjQiLCJzZXNzaW9uX2lkIjoiYzUxOTBiOGEtNGY0NS00MDkyLThlMzAtM2MyYjVmYWFhMzM2IiwiZXhwIjoxNzc4MDk5NTA5fQ.CiFqip11yG8Ys5bLODhtvSNhYcIcn_vyVLos4ysFGv0/uefa-1.m3u8",
+             "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com","https://kilat-live.com/"]
         },{
              "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjE2MC4xNzguMjAwLjAvMjQiLCJzZXNzaW9uX2lkIjoiYzUxOTBiOGEtNGY0NS00MDkyLThlMzAtM2MyYjVmYWFhMzM2IiwiZXhwIjoxNzc4MDk5NTA5fQ.CiFqip11yG8Ys5bLODhtvSNhYcIcn_vyVLos4ysFGv0/uefa-1.m3u8",
           "UseTimStreamerDecoder": false,
@@ -34,6 +34,18 @@
           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         },{
              "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjE2MC4xNzguMjAwLjAvMjQiLCJzZXNzaW9uX2lkIjoiYzUxOTBiOGEtNGY0NS00MDkyLThlMzAtM2MyYjVmYWFhMzM2IiwiZXhwIjoxNzc4MDk5NTA5fQ.CiFqip11yG8Ys5bLODhtvSNhYcIcn_vyVLos4ysFGv0/uefa-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+             "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://kilat-live.com","https://kilat-live.com/"]
+        },{
+              "StreamLink": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjE2MC4xNzguMjAwLjAvMjQiLCJzZXNzaW9uX2lkIjoiYzUxOTBiOGEtNGY0NS00MDkyLThlMzAtM2MyYjVmYWFhMzM2IiwiZXhwIjoxNzc4MDk5NTA5fQ.CiFqip11yG8Ys5bLODhtvSNhYcIcn_vyVLos4ysFGv0/uefa-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
@@ -44,6 +56,12 @@
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+           },{
+             "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://kilat-live.com","https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
