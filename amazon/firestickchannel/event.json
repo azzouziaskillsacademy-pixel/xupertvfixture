@@ -1,7 +1,7 @@
 {
   "LiveEvents": [
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
       "FirstTeamName": "Aston Villa",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
@@ -9,11 +9,29 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMiIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6ImFiMzIzMzYyLWJmZTAtNGFjNy1iYjJlLWMwZThkM2M3YTJhNiIsImV4cCI6MTc3ODE4ODk0M30.emUfSAvnttKwoj2Or77K2-dqG8E2l9pGHkEeXF_0P-E/paramount-2.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMiIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6ImFiMzIzMzYyLWJmZTAtNGFjNy1iYjJlLWMwZThkM2M3YTJhNiIsImV4cCI6MTc3ODE4ODk0M30.emUfSAvnttKwoj2Or77K2-dqG8E2l9pGHkEeXF_0P-E/paramount-2.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMiIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6ImFiMzIzMzYyLWJmZTAtNGFjNy1iYjJlLWMwZThkM2M3YTJhNiIsImV4cCI6MTc3ODE4ODk0M30.emUfSAvnttKwoj2Or77K2-dqG8E2l9pGHkEeXF_0P-E/paramount-2.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMiIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6ImFiMzIzMzYyLWJmZTAtNGFjNy1iYjJlLWMwZThkM2M3YTJhNiIsImV4cCI6MTc3ODE4ODk0M30.emUfSAvnttKwoj2Or77K2-dqG8E2l9pGHkEeXF_0P-E/paramount-2.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+          "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
@@ -24,7 +42,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "FirstTeamName": "Freiburg",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
@@ -32,11 +50,17 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtNCIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6IjU0MjFkYTEwLTJmZjgtNGIwNi1iYTQ3LWFlNTk2ODNiNmEwNiIsImV4cCI6MTc3ODE4OTAzOH0.ZSk9-wqVY7zPJK0F8x2hchOclEOExM8N_sHITS1zWZI/paramount-4.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtNCIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6IjU0MjFkYTEwLTJmZjgtNGIwNi1iYTQ3LWFlNTk2ODNiNmEwNiIsImV4cCI6MTc3ODE4OTAzOH0.ZSk9-wqVY7zPJK0F8x2hchOclEOExM8N_sHITS1zWZI/paramount-4.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
@@ -47,7 +71,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
       "FirstTeamName": "Crystal Palace",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1516.png",
@@ -55,11 +79,29 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMyIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6IjgwYjU3MjA0LTY1NWItNDYxMS1hNTNkLTc1YWRlOTEzNTgzNiIsImV4cCI6MTc3ODE4OTA2Mn0.4LvnS1WSkKCFzjrpXdkOLEgJq8zW38ZXvcK13qlsDcY/paramount-3.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMyIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6IjgwYjU3MjA0LTY1NWItNDYxMS1hNTNkLTc1YWRlOTEzNTgzNiIsImV4cCI6MTc3ODE4OTA2Mn0.4LvnS1WSkKCFzjrpXdkOLEgJq8zW38ZXvcK13qlsDcY/paramount-3.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMyIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6IjgwYjU3MjA0LTY1NWItNDYxMS1hNTNkLTc1YWRlOTEzNTgzNiIsImV4cCI6MTc3ODE4OTA2Mn0.4LvnS1WSkKCFzjrpXdkOLEgJq8zW38ZXvcK13qlsDcY/paramount-3.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMyIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6IjgwYjU3MjA0LTY1NWItNDYxMS1hNTNkLTc1YWRlOTEzNTgzNiIsImV4cCI6MTc3ODE4OTA2Mn0.4LvnS1WSkKCFzjrpXdkOLEgJq8zW38ZXvcK13qlsDcY/paramount-3.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
@@ -70,7 +112,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
       "FirstTeamName": "Strasbourg",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/98.png",
@@ -78,11 +120,17 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMSIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6ImQ4MzI0ZWUxLWM3ZGQtNDFlZi1hZDY5LTY5ODNjZDhlN2ViYyIsImV4cCI6MTc3ODE4OTA4OH0.C-IVdpOtkVa7doq-7mJiRHDL0GtEzr12uG-g2SD13u8/paramount-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin","referer"],
-          "NewappHeadersValues": ["https://foulembeds.live","https://foulembeds.live/"]
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
+        },{
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJwYXJhbW91bnQtMSIsImlwIjoiMTA1Ljc0LjEzMS4wLzI0Iiwic2Vzc2lvbl9pZCI6ImQ4MzI0ZWUxLWM3ZGQtNDFlZi1hZDY5LTY5ODNjZDhlN2ViYyIsImV4cCI6MTc3ODE4OTA4OH0.C-IVdpOtkVa7doq-7mJiRHDL0GtEzr12uG-g2SD13u8/paramount-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin","referer"],
+           "NewappHeadersValues": ["https://hmembeds.one","https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
