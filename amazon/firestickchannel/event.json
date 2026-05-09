@@ -2,106 +2,6 @@
   "LiveEvents": [
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "FirstTeamName": "Fulham",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "SecondTeamName": "AFC Bournemouth",
-      "MatchTime": "15:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQ5IiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiI0YWEzMDJlNC1jZTkwLTRhOWUtYmM0NC0yYWY3OGZlMDZkZjEiLCJleHAiOjE3NzgzNDQ0OTh9.wXvMespC9aW1_fhSPLrqx4ZcIKilBLC-I3B4fDuVxIQ/epl-740949.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-          "StreamLink": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports HD 5",
-      "Tickets": "Available",
-      "LocationWeather": "London, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-      "FirstTeamName": "Sunderland",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "SecondTeamName": "Manchester United",
-      "MatchTime": "15:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUzIiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiI5YTM3Y2QyZC03NzVkLTQ4N2EtOGU3OC1kZDE0OTIxNTA0ODMiLCJleHAiOjE3NzgzNDQxNTJ9.2QKXzUER8kANak_LqZsd7PzdP1SSKabegJy6fLfpnpQ/epl-740953.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUzIiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiI5YTM3Y2QyZC03NzVkLTQ4N2EtOGU3OC1kZDE0OTIxNTA0ODMiLCJleHAiOjE3NzgzNDQxNTJ9.2QKXzUER8kANak_LqZsd7PzdP1SSKabegJy6fLfpnpQ/epl-740953.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUzIiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiI5YTM3Y2QyZC03NzVkLTQ4N2EtOGU3OC1kZDE0OTIxNTA0ODMiLCJleHAiOjE3NzgzNDQxNTJ9.2QKXzUER8kANak_LqZsd7PzdP1SSKabegJy6fLfpnpQ/epl-740953.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUzIiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiI5YTM3Y2QyZC03NzVkLTQ4N2EtOGU3OC1kZDE0OTIxNTA0ODMiLCJleHAiOjE3NzgzNDQxNTJ9.2QKXzUER8kANak_LqZsd7PzdP1SSKabegJy6fLfpnpQ/epl-740953.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports HD 1",
-      "Tickets": "Available",
-      "LocationWeather": "Sunderland, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "FirstTeamName": "Brighton & Hove Albion",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "SecondTeamName": "Wolverhampton Wanderers",
-      "MatchTime": "15:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTQ2IiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiJlMzk1NDIzMy1iMmM2LTQzNWEtYjA3MS03ZDkwYmRmNzBmNGMiLCJleHAiOjE3NzgzNDQ0NDB9.kD4CfA-keG_mjz00CjphjQMlpJ6YmM4TjsEQyC5IibA/epl-740946.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-  
-          "StreamLink": "https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports HD 2",
-      "Tickets": "Available",
-      "LocationWeather": "Brighton, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "17:00",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "FirstTeamName": "Lazio",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
@@ -109,7 +9,13 @@
       "MatchTime": "17:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
+        },{
+          "StreamLink": "https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -124,7 +30,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "17:30",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "FirstTeamName": "Manchester City",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
@@ -132,11 +38,29 @@
       "MatchTime": "17:30",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
+           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+        },{
+            "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+        },{
+            "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+        },{
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
@@ -147,7 +71,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "17:30",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
       "FirstTeamName": "Wolfsburg",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
@@ -155,11 +79,17 @@
       "MatchTime": "17:30",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJidW5kZXNsaWdhLTEiLCJpcCI6IjEwNS43NC43NC4wLzI0Iiwic2Vzc2lvbl9pZCI6ImE5NDIxZmI5LWNlZTAtNGE5OC05ZWU3LWI2ZjcwMmYxMjNhYSIsImV4cCI6MTc3ODM1MjgzMn0.STl3rdfPvqMirsJSmb54UhZAefqR0qVc7jMbEI3whVI/bundesliga-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
+           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+        },{
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJidW5kZXNsaWdhLTEiLCJpcCI6IjEwNS43NC43NC4wLzI0Iiwic2Vzc2lvbl9pZCI6ImE5NDIxZmI5LWNlZTAtNGE5OC05ZWU3LWI2ZjcwMmYxMjNhYSIsImV4cCI6MTc3ODM1MjgzMn0.STl3rdfPvqMirsJSmb54UhZAefqR0qVc7jMbEI3whVI/bundesliga-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
