@@ -2,47 +2,6 @@
   "LiveEvents": [
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "FirstTeamName": "Liverpool",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "SecondTeamName": "Chelsea",
-      "MatchTime": "12:30",
-      "StreamData": [
-        {
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJza3ktc3BvcnRzLTgtbnoiLCJpcCI6IjE2MC4xNzkuMTExLjAvMjQiLCJzZXNzaW9uX2lkIjoiNzk2MTU4NzMtMjU4Ni00YmQ1LWJhNDctZTMwM2E1ZGVjYmJiIiwiZXhwIjoxNzc4MzMzNjI4fQ.E1iVGfuE3FB3Al_lFJjQjQbW5yjy8L8L90MHZ5qRKo8/sky-sports-8-nz.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-             "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJza3ktc3BvcnRzLTgtbnoiLCJpcCI6IjE2MC4xNzkuMTExLjAvMjQiLCJzZXNzaW9uX2lkIjoiNzk2MTU4NzMtMjU4Ni00YmQ1LWJhNDctZTMwM2E1ZGVjYmJiIiwiZXhwIjoxNzc4MzMzNjI4fQ.E1iVGfuE3FB3Al_lFJjQjQbW5yjy8L8L90MHZ5qRKo8/sky-sports-8-nz.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-             "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJza3ktc3BvcnRzLTgtbnoiLCJpcCI6IjE2MC4xNzkuMTExLjAvMjQiLCJzZXNzaW9uX2lkIjoiNzk2MTU4NzMtMjU4Ni00YmQ1LWJhNDctZTMwM2E1ZGVjYmJiIiwiZXhwIjoxNzc4MzMzNjI4fQ.E1iVGfuE3FB3Al_lFJjQjQbW5yjy8L8L90MHZ5qRKo8/sky-sports-8-nz.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJza3ktc3BvcnRzLTgtbnoiLCJpcCI6IjE2MC4xNzkuMTExLjAvMjQiLCJzZXNzaW9uX2lkIjoiNzk2MTU4NzMtMjU4Ni00YmQ1LWJhNDctZTMwM2E1ZGVjYmJiIiwiZXhwIjoxNzc4MzMzNjI4fQ.E1iVGfuE3FB3Al_lFJjQjQbW5yjy8L8L90MHZ5qRKo8/sky-sports-8-nz.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports HD 1",
-      "Tickets": "Available",
-      "LocationWeather": "Liverpool, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "15:00",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "FirstTeamName": "Fulham",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
@@ -50,7 +9,7 @@
       "MatchTime": "15:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -65,7 +24,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "15:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
       "FirstTeamName": "Sunderland",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
@@ -73,11 +32,11 @@
       "MatchTime": "15:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUzIiwiaXAiOiI0MS4xNDMuNDQuMC8yNCIsInNlc3Npb25faWQiOiI5YTM3Y2QyZC03NzVkLTQ4N2EtOGU3OC1kZDE0OTIxNTA0ODMiLCJleHAiOjE3NzgzNDQxNTJ9.2QKXzUER8kANak_LqZsd7PzdP1SSKabegJy6fLfpnpQ/epl-740953.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
+          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
@@ -88,7 +47,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "15:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "FirstTeamName": "Brighton & Hove Albion",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
@@ -96,7 +55,7 @@
       "MatchTime": "15:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
