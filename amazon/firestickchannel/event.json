@@ -2,24 +2,24 @@
   "LiveEvents": [
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "FirstTeamName": "Lazio",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "SecondTeamName": "Internazionale",
+      "FirstTeamLogo": "https://images.ctfassets.net/lg76kxmf55ue/PMn8lVlbUjNLf9RjyunnT/d7aa96d526b2d3cf209149fbd06f0ece/Fabio-Wardley.png?w=1920&q=80&fm=webp",
+      "FirstTeamName": "Fabio Wardley",
+      "SecondTeamLogo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=0a60de1a-89ab-4851-902d-3145d3c84c09&quality=70",
+      "SecondTeamName": "Daniel Dubois",
       "MatchTime": "17:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJkYXpuLXBwdiIsImlwIjoiMTYwLjE3OS4xMTEuMC8yNCIsInNlc3Npb25faWQiOiJiNjU3OGZkZS1kYmU5LTQ0YWYtOTJlOC1iYzkwMDgxZjdjNGQiLCJleHAiOjE3NzgzNzM3NTR9.E8hSvbrO6cYl_zTQEqiDBnXMc_D2Sn0OhBDLLeyJQFA/dazn-ppv.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
+          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         },{
-          "StreamLink": "https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8",
+          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJkYXpuLXBwdiIsImlwIjoiMTYwLjE3OS4xMTEuMC8yNCIsInNlc3Npb25faWQiOiJiNjU3OGZkZS1kYmU5LTQ0YWYtOTJlOC1iYzkwMDgxZjdjNGQiLCJleHAiOjE3NzgzNzM3NTR9.E8hSvbrO6cYl_zTQEqiDBnXMc_D2Sn0OhBDLLeyJQFA/dazn-ppv.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
+          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
@@ -31,32 +31,32 @@
     },
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "FirstTeamName": "Manchester City",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-      "SecondTeamName": "Brentford",
+      "FirstTeamLogo": "https://assets.zagranie.com/2026/05/bAYu3pKG-FAME-MMA-31-ile-kosztuje-PPV-i-gdzie-kupic-Cena-PPV.webp",
+      "FirstTeamName": "FAME MMA 31: Fight Club Tournament",
+      "SecondTeamLogo": "",
+      "SecondTeamName": "",
       "MatchTime": "17:30",
       "StreamData": [
         {
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+          "StreamLink": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
            "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         },{
-            "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+              "StreamLink": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
            "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         },{
-            "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+             "StreamLink": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
            "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         },{
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJlcGwtNzQwOTUxIiwiaXAiOiIxMDUuNzQuNzQuMC8yNCIsInNlc3Npb25faWQiOiI5YjE0ZGUwZi1mZDk5LTQzMDUtOGJkMS0zZjYxNDY5MDU1M2UiLCJleHAiOjE3NzgzNTI4ODR9.BIppIEsiofk-LMEjhqEJG90VqKrHFTl7r6KwCTynnOk/epl-740951.m3u8",
+          "StreamLink": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -68,58 +68,6 @@
       "TV": "beIN Sports",
       "Tickets": "Available",
       "LocationWeather": "Manchester, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-      "FirstTeamName": "Wolfsburg",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "SecondTeamName": "Bayern München",
-      "MatchTime": "17:30",
-      "StreamData": [
-        {
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJidW5kZXNsaWdhLTEiLCJpcCI6IjEwNS43NC43NC4wLzI0Iiwic2Vzc2lvbl9pZCI6ImE5NDIxZmI5LWNlZTAtNGE5OC05ZWU3LWI2ZjcwMmYxMjNhYSIsImV4cCI6MTc3ODM1MjgzMn0.STl3rdfPvqMirsJSmb54UhZAefqR0qVc7jMbEI3whVI/bundesliga-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-          "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJidW5kZXNsaWdhLTEiLCJpcCI6IjEwNS43NC43NC4wLzI0Iiwic2Vzc2lvbl9pZCI6ImE5NDIxZmI5LWNlZTAtNGE5OC05ZWU3LWI2ZjcwMmYxMjNhYSIsImV4cCI6MTc3ODM1MjgzMn0.STl3rdfPvqMirsJSmb54UhZAefqR0qVc7jMbEI3whVI/bundesliga-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Bundesliga",
-      "TV": "MBC Shahid",
-      "Tickets": "Available",
-      "LocationWeather": "Wolfsburg, Germany",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "19:45",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-      "FirstTeamName": "Lecce",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "SecondTeamName": "Juventus",
-      "MatchTime": "19:45",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://foulembeds.live", "https://foulembeds.live/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Serie A",
-      "TV": "STARZPLAY",
-      "Tickets": "Available",
-      "LocationWeather": "Lecce, Italy",
       "Odds": "Match Odds"
     }
   ]
