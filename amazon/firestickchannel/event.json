@@ -1,7 +1,7 @@
 {
   "LiveEvents": [
     {
-      "MatchStatus": "19:45",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "FirstTeamName": "Milan",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
@@ -30,7 +30,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
       "FirstTeamName": "Barcelona",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
@@ -38,11 +38,11 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-           "StreamLink": "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn_1080p30.m3u8",
+            "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=02f1a9d938a8018dd93082ccbad1ea275c28dd53d3ea3222429914da0db0ee7e.1778439208.4e0363ff3bf94ccb8486fd00f56989d3.476582607933c8589d44eaed8fabbfea.d53c7e11a357072387dc53e9d4e23212&signature=029fe421fa4dac471a3a63a56d8a9aa378504a4cab2699049af5ec2e184f8cb0",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
+          "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
         },{
            "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
@@ -50,13 +50,13 @@
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
         },{
-            "StreamLink": "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn_1080p30.m3u8",
+               "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
         },{
-            "StreamLink": "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn_1080p30.m3u8",
+              "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -68,7 +68,7 @@
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
           },{
-            "StreamLink": "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn_1080p30.m3u8",
+              "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -83,7 +83,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "FirstTeamName": "PSG",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
