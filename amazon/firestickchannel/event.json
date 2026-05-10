@@ -38,11 +38,29 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
+               "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+        },{
+            "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
+        },{
             "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=02f1a9d938a8018dd93082ccbad1ea275c28dd53d3ea3222429914da0db0ee7e.1778439208.4e0363ff3bf94ccb8486fd00f56989d3.476582607933c8589d44eaed8fabbfea.d53c7e11a357072387dc53e9d4e23212&signature=029fe421fa4dac471a3a63a56d8a9aa378504a4cab2699049af5ec2e184f8cb0",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
+        },{
+              "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         },{
            "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
           "UseTimStreamerDecoder": false,
