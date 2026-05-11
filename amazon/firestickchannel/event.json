@@ -1,132 +1,26 @@
 {
   "LiveEvents": [
     {
-            "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "FirstTeamName": "Barcelona",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "SecondTeamName": "Real Madrid",
+      "MatchStatus": "20:00",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "FirstTeamName": "Tottenham Hotspur",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "SecondTeamName": "Leeds United",
       "MatchTime": "20:00",
       "StreamData": [
         {
-               "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
+          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        },{
-            "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
-        },{
-            "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=02f1a9d938a8018dd93082ccbad1ea275c28dd53d3ea3222429914da0db0ee7e.1778439208.4e0363ff3bf94ccb8486fd00f56989d3.476582607933c8589d44eaed8fabbfea.d53c7e11a357072387dc53e9d4e23212&signature=029fe421fa4dac471a3a63a56d8a9aa378504a4cab2699049af5ec2e184f8cb0",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
-        },{
-              "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        },{
-           "StreamLink": "https://amsterdam-0183.zulo-0084.online/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJiZWluc3BvcnRzLXNnIiwiaXAiOiI0MS4yNTEuMi4wLzI0Iiwic2Vzc2lvbl9pZCI6Ijc5ZDM3NTYzLTRkZGEtNDVhMC05ZTVlLTRkNzM5ZDNkNjc1MCIsImV4cCI6MTc3ODQ0ODY0NH0.OYHi0bXvwlXh348cTXhIrILFBT7UBFhVjpV9GjpmDHg/f/beinsports-sg/8qA1fbYTXOwv96w5SNoWRaeohmrgANlTA-H8slrq26znSFd3E0XKjm4OT-weOyM00leVvyMoQA8520mz5sDeE56TcCuAFWsdanRI_coDjr2IzXiq_9eTLMH8erB2mlHDuQaXD7UBrmNEyrfd3RuwMGShz4aKvRs2bEcB0WP8.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-               "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
-        },{
-              "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
-        },{
-           "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
-          },{
-              "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd4/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://sportspass.top", "https://sportspass.top/"]
+          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         }
       ],
       "PlayIn": "player",
-      "CupName": "La Liga",
+      "CupName": "Premier League",
       "TV": "beIN Sports",
       "Tickets": "Available",
-      "LocationWeather": "Barcelona, Spain",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "FirstTeamName": "Milan",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "SecondTeamName": "Atalanta",
-      "MatchTime": "19:45",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd2/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        },{
-          "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd2/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Serie A",
-      "TV": "STARZPLAY",
-      "Tickets": "Available",
-      "LocationWeather": "Milan, Italy",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "FirstTeamName": "PSG",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "SecondTeamName": "Brest",
-      "MatchTime": "20:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-          },{
-                  "StreamLink": "https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Ligue 1",
-      "TV": "beIN Sports",
-      "Tickets": "Available",
-      "LocationWeather": "Paris, France",
+      "LocationWeather": "London, England",
       "Odds": "Match Odds"
     }
   ]
