@@ -15,11 +15,23 @@
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
         }, {
-          "StreamLink": "https://ruspb-086.kuvuslov.cymru/1778706516/0c2a806b3d854d94b2687c28ffce9078/r8GDb2-dwlhT6PQFX9r8KEki4DUWnjLmtCaTZRe_ue4/hubpremier1.m3u8",
+             "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_Sky_Sports_Main_Events/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://dudeembeds.pages.dev", "https://dudeembeds.pages.dev/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+        }, {
+            "StreamLink": "https://storage.googleapis.com/ounhdsfugfak1/mux_video_ts1/index-1.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+        }, {
+            "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_Sky_Sports_Main_Events/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -44,11 +56,11 @@
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
           }, {
-           "StreamLink": "https://storage.googleapis.com/ounhdsfugfak2/mux_video_ts1/index-1.m3u8",
+           "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_usa_bein_sport_espanol/index.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -73,11 +85,11 @@
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
           }, {
-            "StreamLink": "https://storage.googleapis.com/ounhdsfugfak3/mux_video_ts1/index-1.m3u8",
+            "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_BG_MAX_SPORT_3/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+         "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
