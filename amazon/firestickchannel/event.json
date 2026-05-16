@@ -101,11 +101,17 @@
       "MatchTime": "15:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=dbb7a404c010f2af948ae63dc684471af5350fe29606104ec5095b995fb39c9f.1778939103.6a3e8e183d05be7e6a16a98223c917ac.b6f515f7047fc97371a451d340359def.5a042df133f2a2da7bbb27cff5c80b79&signature=7a7940f69b9c9842a4304801fb635c6781a94ac8238bf2722a76e3b6f735a313",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
+        },{
+          "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=dbb7a404c010f2af948ae63dc684471af5350fe29606104ec5095b995fb39c9f.1778939103.6a3e8e183d05be7e6a16a98223c917ac.b6f515f7047fc97371a451d340359def.5a042df133f2a2da7bbb27cff5c80b79&signature=7a7940f69b9c9842a4304801fb635c6781a94ac8238bf2722a76e3b6f735a313",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
         }
       ],
       "PlayIn": "player",
