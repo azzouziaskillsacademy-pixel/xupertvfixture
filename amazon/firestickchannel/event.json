@@ -93,7 +93,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "15:00",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "FirstTeamName": "Chelsea",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
@@ -101,13 +101,25 @@
       "MatchTime": "15:00",
       "StreamData": [
         {
-          "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=dbb7a404c010f2af948ae63dc684471af5350fe29606104ec5095b995fb39c9f.1778939103.6a3e8e183d05be7e6a16a98223c917ac.b6f515f7047fc97371a451d340359def.5a042df133f2a2da7bbb27cff5c80b79&signature=7a7940f69b9c9842a4304801fb635c6781a94ac8238bf2722a76e3b6f735a313",
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_tnt_1_sport/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
           "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
         },{
-          "StreamLink": "https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=dbb7a404c010f2af948ae63dc684471af5350fe29606104ec5095b995fb39c9f.1778939103.6a3e8e183d05be7e6a16a98223c917ac.b6f515f7047fc97371a451d340359def.5a042df133f2a2da7bbb27cff5c80b79&signature=7a7940f69b9c9842a4304801fb635c6781a94ac8238bf2722a76e3b6f735a313",
+            "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_tnt_1_sport/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
+        },{
+            "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_tnt_1_sport/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://cdnlivetv.tv", "https://cdnlivetv.tv/"]
+        },{
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_tnt_1_sport/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
