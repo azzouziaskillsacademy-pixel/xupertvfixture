@@ -2,52 +2,6 @@
   "LiveEvents": [
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "FirstTeamName": "Juventus",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "SecondTeamName": "Fiorentina",
-      "MatchTime": "11:30",
-      "StreamData": [
-        {
-          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_PT_SPORT_TV_2/tracks-v1a1/mono.ts.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Serie A",
-      "TV": "STARZPLAY",
-      "Tickets": "Available",
-      "LocationWeather": "Turin, Italy",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/326.png",
-      "FirstTeamName": "Genoa",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "SecondTeamName": "Milan",
-      "MatchTime": "11:30",
-      "StreamData": [
-        {
-          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_serie_a_02/tracks-v1a1/mono.ts.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Serie A",
-      "TV": "STARZPLAY",
-      "Tickets": "Available",
-      "LocationWeather": "Genoa, Italy",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "FirstTeamName": "Manchester United",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
@@ -88,7 +42,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -111,7 +65,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -134,7 +88,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -157,7 +111,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -180,7 +134,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -203,7 +157,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -226,7 +180,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -249,7 +203,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
@@ -272,7 +226,7 @@
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         }
       ],
       "PlayIn": "player",
