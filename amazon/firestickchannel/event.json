@@ -2,58 +2,6 @@
   "LiveEvents": [
     {
       "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "FirstTeamName": "Newcastle United",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "SecondTeamName": "West Ham United",
-      "MatchTime": "17:30",
-      "StreamData": [
-        {
-          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_Sky_Sports_Main_Events/tracks-v1a1/mono.ts.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Premier League",
-      "TV": "beIN Sports",
-      "Tickets": "Available",
-      "LocationWeather": "Newcastle, England",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "FirstTeamName": "Sevilla",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "SecondTeamName": "Real Madrid",
-      "MatchTime": "18:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        },{
-          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "La Liga",
-      "TV": "beIN Sports",
-      "Tickets": "Available",
-      "LocationWeather": "Seville, Spain",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "20:00",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7246.png",
       "FirstTeamName": "Paris",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
@@ -61,7 +9,7 @@
       "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_usa_bein_sport_espanol/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -76,7 +24,7 @@
       "Odds": "Match Odds"
     },
     {
-      "MatchStatus": "20:15",
+      "MatchStatus": "LIVE",
       "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
       "FirstTeamName": "Barcelona",
       "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -84,7 +32,7 @@
       "MatchTime": "20:15",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
