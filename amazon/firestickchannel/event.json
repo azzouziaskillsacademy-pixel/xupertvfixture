@@ -1,44 +1,33 @@
 {
   "LiveEvents": [
     {
-      "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://frisbee-cdn.fra1.cdn.digitaloceanspaces.com/images/gJz81670320381_VXN5ay5wbmc=.png",
-      "FirstTeamName": "Oleksandr Usyk",
-      "SecondTeamLogo": "https://glory.pinkyellow.network/assets/flag-1763695775.png",
-      "SecondTeamName": "Rico Verh",
-      "MatchTime": "17:00",
+      "MatchStatus": "20:00",
+      "FirstTeamLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/384.png",
+      "FirstTeamName": "Crystal Palace",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/101.png",
+      "SecondTeamName": "Rayo Vallecano",
+      "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://a107.azplay33.me/hls/streama253289/index.m3u8?cst=010d6e500567cf2257356f6050f9df88",
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
         },{
-          "StreamLink": "https://ruspb-086.kuvuslov.cymru/1779560569/d420138dfa674e10b7cbf6bb29aa5125/2cDJwzb19iCcLi8bRKV6eovS9PNx2DSoHMk2IzfWgHU/dazn-1.m3u8",
+           "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "Serie A",
-      "TV": "STARZPLAY",
-      "Tickets": "Available",
-      "LocationWeather": "Bologna, Italy",
-      "Odds": "Match Odds"
-    },
-    {
-        "MatchStatus": "LIVE",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4006.png",
-      "FirstTeamName": "Bologna",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "SecondTeamName": "Internazionale",
-      "MatchTime": "17:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_FOX_DEPORTES/tracks-v1a1/mono.ts.m3u8",
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+        },{
+           "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+        },{
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
           "NewappHeaders": ["origin", "referer"],
@@ -46,56 +35,10 @@
         }
       ],
       "PlayIn": "player",
-      "CupName": "Serie A",
-      "TV": "STARZPLAY",
-      "Tickets": "Available",
-      "LocationWeather": "Bologna, Italy",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "20:00",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "FirstTeamName": "Real Madrid",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-      "SecondTeamName": "Athletic Club",
-      "MatchTime": "20:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "La Liga",
-      "TV": "beIN Sports HD 1",
-      "Tickets": "Available",
-      "LocationWeather": "Madrid, Spain",
-      "Odds": "Match Odds"
-    },
-    {
-      "MatchStatus": "20:00",
-      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "FirstTeamName": "Valencia",
-      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "SecondTeamName": "Barcelona",
-      "MatchTime": "20:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://hmembeds.one", "https://hmembeds.one/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "La Liga",
+      "CupName": "UEFA Europa Conference League",
       "TV": "beIN Sports",
       "Tickets": "Available",
-      "LocationWeather": "Valencia, Spain",
+      "LocationWeather": "London, England",
       "Odds": "Match Odds"
     }
   ]
